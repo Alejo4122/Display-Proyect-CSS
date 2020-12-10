@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  .header {
+    background-color: #29D177;
+  }
+  .header__logo, .nav, .nav__list li {
+    display: inline-block;
+    margin: 5px;
+  }
+  .nav {
+    position: absolute;
+    right: 0;
+  }
+  .nav__list {
+    list-style: none;
+  }
+  .nav__list li a {
+    text-decoration: none;
+    color: white;
+  }
+  .main {
+    height: 400px;
+    background-color: #C02323;
+  }
+  .routes {
+    display: inline-block;
+    height: 100%;
+    padding: 10px;
+    background-color: royalblue;
+  }
+  .routes__images img {
+    display: block;
+    margin: 5px 0;
+    border-radius: 10px;
+  }
+  
+  .content {
+    display: inline-block;
+    padding: 10px;
+    position: absolute;
+  }
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background-color: orange;
+  }
+  .Logo {
+    width: 26px;
+    height: 26px;
+  }
+  .Ciclon {
+    width: 80px;
+    height: 30px;
+  }
+  .hinchada {
+    width: 120px;
+    height: 96px;
+  }
+  .hinchas {
+    width: 120px;
+    height: 96px;
+  }
+  .libertador {
+    width: 120px;
+    height: 96px;
+  }
+  .libertadores {
+    width: 120px;
+    height: 96px;
+  }
